@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0NicR964WzuVU5VaTvHjg6lnCmBVxeYCTNcR9U6Lf/H5q8+EciuxGZDPh3ZVVEgeuzj/XVqDEtA01CX5DUMqxg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MSH\\Desktop\\Курс ООП\\snake\\SnakeProject\\SnakeProject\\SnakeProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MSH\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.13\\microsoft.netcore.app.host.win-x64.3.1.13.nupkg.sha512"
+  ],
+  "logs": []
+}

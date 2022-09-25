@@ -1,0 +1,13 @@
+C:\Users\MSH\Desktop\Курс ООП\snake\SnakeProject\SnakeProject\bin\Debug\netcoreapp3.1\SnakeProject.exe
+C:\Users\MSH\Desktop\Курс ООП\snake\SnakeProject\SnakeProject\bin\Debug\netcoreapp3.1\SnakeProject.deps.json
+C:\Users\MSH\Desktop\Курс ООП\snake\SnakeProject\SnakeProject\bin\Debug\netcoreapp3.1\SnakeProject.runtimeconfig.json
+C:\Users\MSH\Desktop\Курс ООП\snake\SnakeProject\SnakeProject\bin\Debug\netcoreapp3.1\SnakeProject.runtimeconfig.dev.json
+C:\Users\MSH\Desktop\Курс ООП\snake\SnakeProject\SnakeProject\bin\Debug\netcoreapp3.1\SnakeProject.dll
+C:\Users\MSH\Desktop\Курс ООП\snake\SnakeProject\SnakeProject\bin\Debug\netcoreapp3.1\SnakeProject.pdb
+C:\Users\MSH\Desktop\Курс ООП\snake\SnakeProject\SnakeProject\obj\Debug\netcoreapp3.1\SnakeProject.csprojAssemblyReference.cache
+C:\Users\MSH\Desktop\Курс ООП\snake\SnakeProject\SnakeProject\obj\Debug\netcoreapp3.1\SnakeProject.AssemblyInfoInputs.cache
+C:\Users\MSH\Desktop\Курс ООП\snake\SnakeProject\SnakeProject\obj\Debug\netcoreapp3.1\SnakeProject.AssemblyInfo.cs
+C:\Users\MSH\Desktop\Курс ООП\snake\SnakeProject\SnakeProject\obj\Debug\netcoreapp3.1\SnakeProject.csproj.CoreCompileInputs.cache
+C:\Users\MSH\Desktop\Курс ООП\snake\SnakeProject\SnakeProject\obj\Debug\netcoreapp3.1\SnakeProject.dll
+C:\Users\MSH\Desktop\Курс ООП\snake\SnakeProject\SnakeProject\obj\Debug\netcoreapp3.1\SnakeProject.pdb
+C:\Users\MSH\Desktop\Курс ООП\snake\SnakeProject\SnakeProject\obj\Debug\netcoreapp3.1\SnakeProject.genruntimeconfig.cache
