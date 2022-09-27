@@ -53,6 +53,12 @@ namespace SnakeProject
 
         }
 
+        public void Clear()
+        {
+            sym = ' ' ;
+            Draw();
+
+        }
         public override string ToString()
         {
             return x +","+y+","+sym;
