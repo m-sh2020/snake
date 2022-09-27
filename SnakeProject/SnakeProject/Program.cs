@@ -7,19 +7,23 @@ namespace SnakeProject
     {
         static void Main(string[] args)
         {
-            Point p1 = new Point(1,3,'*');
-            p1.Draw();
+            Console.SetWindowSize(80, 25);
+            Console.SetBufferSize(80,25);
 
-            Point p2 = new Point(4,5,'#');
-            p2.Draw();
+            //Отрисовка рамочки
+            HorisontalLine upLine = new HorisontalLine(0, 78, 0,'+') ;
+            HorisontalLine downLine = new HorisontalLine(0, 78, 24, '+');
+            VerticalLine leftLine = new VerticalLine(0, 24, 0, '+');
+            VerticalLine rightLine = new VerticalLine(0, 24, 78, '+');
+            upLine.Draw();
+            downLine.Draw();
+            leftLine.Draw();
+            rightLine.Draw();
+           
 
-            HorisontalLine line = new HorisontalLine(5,10,8,'+');
-            line.Draw();
-
-            VerticalLine vline = new VerticalLine(5, 10, 15, '/');
-            vline.Draw();
-            Console.ReadLine();
-
+            //Отрисовка точек
+            Point p = new Point(4, 5, '*');
+            p.Draw();
         }
     }
 }
