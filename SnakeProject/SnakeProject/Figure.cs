@@ -1,5 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
 
 namespace SnakeProject
@@ -13,6 +14,31 @@ namespace SnakeProject
             {
                 p.Draw();
             }
+        }
+
+
+        internal bool IsHit(Figure figure)   //пересечение 
+        {
+            foreach (var p in pList)
+            {
+                if (figure.IsHit(p))
+                {
+                    return true;
+                }
+            }
+            return false;
+        }
+
+        private bool IsHit(Point point)
+        {
+            foreach (var p in pList)
+            {
+                if (p.IsHit(point))
+                {
+                    return true;
+                }
+            }
+            return false;
         }
     }
 }
